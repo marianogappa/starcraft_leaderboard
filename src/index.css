@@ -1,0 +1,29 @@
+.leaderboard {
+    font-family: sans-serif;
+}
+
+.leaderboard_row {
+    display: block;
+    padding: 5px;
+}
+.leaderboard_row div {
+    display: inline-block;
+    padding: 0px 10px 0px 10px;
+    width: 60px;
+}
+
+.leaderboard_row_gamer {
+    width: 200px !important;
+}
+
+.leaderboard_row_race {
+    width: 100px !important;
+}
+
+.leaderboard_row_points,
+.leaderboard_row_wins,
+.leaderboard_row_losses,
+.leaderboard_row_rank
+ {
+    text-align: center;
+}
